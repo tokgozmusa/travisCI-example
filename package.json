@@ -1,0 +1,13 @@
+{
+  "name": "travisCI_example",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
