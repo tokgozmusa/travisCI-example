@@ -1,6 +1,6 @@
 {
   "name": "travisCI_example",
-  "private": true,
+  "repository": "git@github.com:tokgozmusa/travisCI_example.git",
   "version": "0.1.0",
   "scripts": {
     "test": "grunt --verbose"
